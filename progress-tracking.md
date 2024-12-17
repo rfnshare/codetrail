@@ -15,6 +15,7 @@ This file is for tracking your progress as you work through the repository. Use 
 | Date       | Category         | Platform         | Name                        | Status      | Notes                        |
 |------------|------------------|------------------|-----------------------------|-------------|------------------------------|
 | 2024-12-15 | Basics           | N/A              | Prime Checker               | Completed   | for now can't handle large number|
+| 2024-12-17 | Basics           | N/A              | Odd Even Checker            | Completed   |                              |
 
 ---
 
